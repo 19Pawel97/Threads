@@ -1,4 +1,4 @@
-package example;
+package threadsexample;
 
 public class Screamer implements Runnable {
     private String scream;

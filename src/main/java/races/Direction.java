@@ -1,2 +1,6 @@
-package races;public enum Direction {
+package races;
+
+public enum Direction {
+    IN,
+    OUT
 }
